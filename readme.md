@@ -9,11 +9,6 @@ there is a need to find the person's face on the profile and to only focus on th
 I found it interesting creating a script that does just that.
  
 
-## Getting Started
-
-This repository contains multiple demo projects, and the description for each project be found in the md file of every project folder.
-
-
 ## Requirements
 python 3
 cv2
@@ -22,8 +17,6 @@ imutils
 
 
 ## Here are the main references:
-
-
 
 *[face detection](https://towardsdatascience.com/a-guide-to-face-detection-in-python-3eab0f6b9fc1) 
 *[blur detection](https://www.pyimagesearch.com/2015/09/07/blur-detection-with-opencv/)
